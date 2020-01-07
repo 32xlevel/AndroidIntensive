@@ -2,7 +2,7 @@ package ru.skillbranch.devintensive.models
 
 import ru.skillbranch.devintensive.utils.Utils
 
-data class Profile (
+data class Profile(
     val firstName: String,
     val lastName: String,
     val about: String,
